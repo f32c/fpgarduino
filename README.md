@@ -174,3 +174,8 @@ expected to be an I2C master in most cases.
 There's SoftwareWire I2C master which works
 because F32C is fast enough and has high
 resolution 32-bit timer.
+
+# Regularly Rebased
+
+Don't use git history of this repository for anything
+It will be regularly rebased.
