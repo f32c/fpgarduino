@@ -302,29 +302,29 @@
               "host":"i686-mingw32",
               "url":"https://raw.githubusercontent.com/f32c/fpgarduino/master/bootloaders.zip",
               "archiveFileName":"bootloaders.zip",
-              "checksum":"SHA-256:a558783b4a36ed0bc1b1712e92055fb10035e4f2e2bd984a4d7aa02d60232c67",
-              "size":"40357558"
+              "checksum":"SHA-256:e1f6a82c52907b5fb9da102beaab880613a777ee881a310070b55f85cd90ace9",
+              "size":"39672271"
             },
             {
               "host":"x86_64-apple-darwin",
               "url":"https://raw.githubusercontent.com/f32c/fpgarduino/master/bootloaders.zip",
               "archiveFileName":"bootloaders.zip",
-              "checksum":"SHA-256:a558783b4a36ed0bc1b1712e92055fb10035e4f2e2bd984a4d7aa02d60232c67",
-              "size":"40357558"
+              "checksum":"SHA-256:e1f6a82c52907b5fb9da102beaab880613a777ee881a310070b55f85cd90ace9",
+              "size":"39672271"
             },
             {
               "host":"i686-pc-linux-gnu",
               "url":"https://raw.githubusercontent.com/f32c/fpgarduino/master/bootloaders.zip",
               "archiveFileName":"bootloaders.zip",
-              "checksum":"SHA-256:a558783b4a36ed0bc1b1712e92055fb10035e4f2e2bd984a4d7aa02d60232c67",
-              "size":"40357558"
+              "checksum":"SHA-256:e1f6a82c52907b5fb9da102beaab880613a777ee881a310070b55f85cd90ace9",
+              "size":"39672271"
             },
             {
               "host":"x86_64-pc-linux-gnu",
               "url":"https://raw.githubusercontent.com/f32c/fpgarduino/master/bootloaders.zip",
               "archiveFileName":"bootloaders.zip",
-              "checksum":"SHA-256:a558783b4a36ed0bc1b1712e92055fb10035e4f2e2bd984a4d7aa02d60232c67",
-              "size":"40357558"
+              "checksum":"SHA-256:e1f6a82c52907b5fb9da102beaab880613a777ee881a310070b55f85cd90ace9",
+              "size":"39672271"
             }
           ]
         },
