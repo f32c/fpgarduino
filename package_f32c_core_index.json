@@ -19,8 +19,8 @@
           "category":"FPGA",
           "url":"https://raw.githubusercontent.com/f32c/fpgarduino/master/fpgarduino.zip",
           "archiveFileName":"fpgarduino.zip",
-          "checksum":"SHA-256:9fdde2436e14297f8bc9f1fe73a83d3307dde673be62c0294b896b83904fe64d",
-          "size":"1396066",
+          "checksum":"SHA-256:441163a09dac9dd2a82788b17e00c65d711c1865df3628b276f339a3a20da7f1",
+          "size":"1409291",
           "help":
           {
             "online":"http://www.nxlab.fer.hr/fpgarduino"
